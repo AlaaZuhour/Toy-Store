@@ -1,0 +1,103 @@
+body{
+	margin: 0 0;
+	background-image:url('bacck2.jpg');
+}
+header{
+	/*background-color:rgb(215, 191, 181);*/
+	width: 100%;
+	border-bottom: 4px solid black;
+
+}
+#logo{
+	width: 270px;
+	height: 80px;
+}
+nav{
+	margin:0 0;
+	height: 580px;
+	float: left;
+	border-right: 4px solid black;
+}
+.ul{
+    list-style-type: none;
+    padding:0;
+	
+
+}
+   
+.anc{
+    text-decoration: none;
+	color: #00796B;
+	font-weight: bold;
+	padding: 12px;
+	padding-left:40px;
+	margin-bottom:12px;
+}
+
+nav ul li{
+	border-bottom: 2px solid black;
+	margin-left:0;
+	padding: 12px;
+	text-align: center-vertical-align;
+}
+nav ul li:first-child{
+	padding-top:0;
+	padding-right:0;
+}
+input:focus, textarea:focus{
+	background-color:#B2DFDB;
+}
+disp{
+	
+	color:black;
+}
+.promo{
+	margin:7px;
+	float:left;
+	width:140px;
+     padding-left:5px;
+	  padding-right:5px;
+	border: 2px solid #E8EAF6;
+	border-radius: 15px;
+}
+h3,h4{
+	padding:0;
+	color: #00796B;
+	width:200px;
+	margin-left:40px;
+	margin-top:30px;
+}
+
+.img{
+	width: 100px;
+	height: 100px;
+	padding:10px;
+	border-bottom: 2px solid #E8EAF6;
+}
+div.trans{
+	background-color:white;
+	 opacity: 0.3;
+	 
+}
+div.trans p{
+	text-align: center;
+	font-weight: bold;
+    color: #00;
+}
+#new{
+	width:600px;
+	float:left;
+	margin-left:50px;
+}
+#offer{
+	margin-left:20px;
+	width:500px;
+	float:left;
+}
+#off{
+	width: 230px;
+	float:left;
+	border-top: 2px solid #E8EAF6;
+	
+	
+}
